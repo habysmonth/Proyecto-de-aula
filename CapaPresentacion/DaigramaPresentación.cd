@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CapaPresentacion.INFORMES.Informe_Facturacion">
+    <Position X="1.5" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAAAAAgACQAABICAACAAACCAAAIAgCAAAAAAQBAAAA=</HashCode>
+      <FileName>INFORMES\Informe_Facturacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaPresentacion.INFORMES.Informe_Ocupacion">
+    <Position X="3.25" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ADAAAAAAQCAAABAAAACAgACCAAAAAAAAJAAAAQBBAAA=</HashCode>
+      <FileName>INFORMES\Informe_Ocupacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaPresentacion.INFORMES.Informe_Reserva">
+    <Position X="5" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACABCAAgQCQAABICAACAAACCAAAaAACAAAAAAQBIAAA=</HashCode>
+      <FileName>INFORMES\Informe_Reserva.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

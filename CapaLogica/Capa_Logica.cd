@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CapaLogica.ClienteGestion">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABEAAAAAAAAAAIAAACAAAAgAAAAAAQ=</HashCode>
+      <FileName>ClienteGestion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaLogica.FacturaDetalleGestion">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABEAAAAAAAAAAIAAACAAAAAAAAAAAQ=</HashCode>
+      <FileName>FacturaDetalleGestion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaLogica.FacturaGestion">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABEAAAAAAAAAAIAAACAAAAAAAAAAAQ=</HashCode>
+      <FileName>FacturaGestion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaLogica.HabitacionGestion">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABEAAAAAAAAAAIAAACQAAAACAAAAAQ=</HashCode>
+      <FileName>HabitacionGestion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaLogica.HotelGestion">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABEAAAAAAAAAAIAAACAAAAAAAAAAAQ=</HashCode>
+      <FileName>HotelGestion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaLogica.PersonaGestion">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABEAAAAAAAAAAIAAACAAAAAAAAAAAQ=</HashCode>
+      <FileName>PersonaGestion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaLogica.ProductoGestion">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAEAAAAABEAAAAAAAAAAIAAACAAAAACAAAAAQ=</HashCode>
+      <FileName>ProductoGestion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaLogica.ReservacionGestion">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABEAQAAAAAAAAIAAACAAAAACAAAAAQ=</HashCode>
+      <FileName>ReservacionGestion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaLogica.TipoHabitacionGestion">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABEAAAAAAAAAAIAAACAAAAACAAAAAQ=</HashCode>
+      <FileName>TipoHabitacionGestion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaLogica.UsuarioGestion">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABEAAAAAAAAAAIAAACAEAAACAAAEAQ=</HashCode>
+      <FileName>UsuarioGestion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
